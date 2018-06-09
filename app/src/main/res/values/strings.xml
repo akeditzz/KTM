@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KTM</string>
+    <string name="label_ready_to_race">Ready to Race</string>
+    <string name="label_heroimage">HeroImage</string>
+    <string name="label_ktm">KTM</string>
+    <string name="label_orange_automotive">Orange Automotive - KTM</string>
+    <string name="label_icon">ICON</string>
+    <string name="label_1800_000_000">+91 8000 000 000</string>
+    <string name="label_https_www_ktm_com_in">https://www.ktm.com/in/</string>
+    <string name="label_info_ktm_com">info@ktm.com</string>
+    <string name="label_address">My World, Baner-Balewadi Road, Baner, Pune, Maharashtra 411045</string>
+    <string name="label_descroption">Orange Automotive - KTM at Baner is a sales showroom where two-wheeler enthusiasts can choose from a variety of motorcycles. The showroom displays a wide range of two-wheeler models both, new and popular ones. The sales staff employed at the showroom is well-trained and experienced.</string>
+</resources>
