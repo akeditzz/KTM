@@ -214,6 +214,7 @@
                         android:src="@drawable/ic_location" />
 
                     <TextView
+                        android:id="@+id/tv_address"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
@@ -222,6 +223,7 @@
                         android:autoLink="map"
                         android:background="?android:attr/selectableItemBackgroundBorderless"
                         android:fontFamily="@font/aldrich"
+                        android:onClick="onClick"
                         android:text="@string/label_address"
                         android:textColor="@android:color/black"
                         android:textSize="@dimen/textSize_14sp" />
